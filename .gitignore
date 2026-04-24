@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+
 !data/.gitkeep
->>>>>>> cc582af (fix:push to github)
+
 .env
 !data/.gitkeep
 
